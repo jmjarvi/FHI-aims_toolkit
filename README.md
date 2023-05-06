@@ -1,2 +1,4 @@
 # FHI-aims_toolkit
-Scripts to postprocess data from DFT code FHI-aims
+These scripts help to postprocess output data from the density-functional theory code FHI-aims https://fhi-aims.org/
+
+
